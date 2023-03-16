@@ -9,7 +9,7 @@ class Navbar extends React.Component{
         return(
 
             <nav style={{background:theme.background, color:theme.text,height:'120px'}}>
-                <h2 style={{textAlign:"center"}}> ÜLKÜ--ACADEMY</h2>
+                <h2 style={{textAlign:"center"}}> ÜLKÜ-ACADEMY</h2>
                 <div className='ui three buttons'>
                     <button className='ui button'> Overview</button>
                     <button className='ui button'> Contact</button>
